@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- S-Curve Path -->
+  <path d="M7 6h8A3 3 0 0 1 15 12h-6A3 3 0 0 0 9 18h8" stroke="#5B5FFF" />
+  <!-- Nodes -->
+  <circle cx="5" cy="6" r="2" fill="#F8FAFC" stroke="none" />
+  <circle cx="19" cy="18" r="2" fill="#00D4FF" stroke="none" />
+</svg>

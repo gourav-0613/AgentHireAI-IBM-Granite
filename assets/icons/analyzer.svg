@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Document Structure -->
+  <path d="M14 2v4a2 2 0 0 0 2 2h4" stroke="#5B5FFF" />
+  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h7" stroke="#5B5FFF" />
+  <!-- Data Bars -->
+  <line x1="8" y1="16" x2="8" y2="12" stroke="#5B5FFF" />
+  <line x1="11" y1="16" x2="11" y2="9" stroke="#5B5FFF" />
+  <!-- Magnifying Glass -->
+  <circle cx="17" cy="17" r="4" stroke="#00D4FF" />
+  <line x1="19.5" y1="19.5" x2="22" y2="22" stroke="#00D4FF" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Chart Bars -->
+  <rect x="4" y="14" width="4" height="6" rx="1" stroke="#00D4FF" />
+  <rect x="10" y="10" width="4" height="10" rx="1" stroke="#5B5FFF" />
+  <rect x="16" y="6" width="4" height="14" rx="1" stroke="#5B5FFF" />
+  <!-- Trend Arrow -->
+  <path d="M3 16l6-6 4 4 8-8" stroke="#F8FAFC" />
+  <path d="M17 6h4v4" stroke="#F8FAFC" />
+</svg>

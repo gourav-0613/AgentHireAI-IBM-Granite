@@ -1,0 +1,34 @@
+Senior Data Engineer – Cloud & Analytics
+
+Company: TechCorp Inc.
+Location: Remote (USA)
+Employment Type: Full-Time
+
+About the Role:
+We are looking for a Senior Data Engineer to join our growing Data Platform team.
+You will design, build, and maintain scalable data pipelines that power our
+analytics and machine learning products.
+
+Required Skills:
+- Python (5+ years)
+- Apache Spark / PySpark
+- SQL and data modelling
+- Cloud platforms: AWS or GCP
+- Data pipeline orchestration (Apache Airflow)
+- Experience with dbt (data build tool)
+- Git and CI/CD practices
+
+Preferred Skills:
+- Kafka or other event streaming platforms
+- Kubernetes / Docker
+- Experience with Databricks
+- Knowledge of data governance and data quality frameworks
+
+Responsibilities:
+- Design and implement batch and streaming data pipelines
+- Collaborate with data scientists and analysts to deliver data products
+- Optimise existing pipelines for performance and cost
+- Maintain data documentation and lineage
+- Mentor junior engineers
+
+Seniority: Senior (5–8 years experience)

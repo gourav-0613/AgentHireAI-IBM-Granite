@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Agent Frame -->
+  <rect x="6" y="9" width="12" height="10" rx="3" stroke="#5B5FFF" />
+  <!-- Side Nodes (Ears) -->
+  <path d="M6 12.5a2 2 0 0 0 0 3" stroke="#5B5FFF" />
+  <path d="M18 12.5a2 2 0 0 1 0 3" stroke="#5B5FFF" />
+  <!-- Antenna -->
+  <line x1="12" y1="9" x2="12" y2="5" stroke="#5B5FFF" />
+  <circle cx="12" cy="4" r="1.5" fill="#00D4FF" stroke="none" />
+  <!-- Agent Optics -->
+  <circle cx="9" cy="14" r="1.5" fill="#00D4FF" stroke="none" />
+  <circle cx="15" cy="14" r="1.5" fill="#00D4FF" stroke="none" />
+</svg>

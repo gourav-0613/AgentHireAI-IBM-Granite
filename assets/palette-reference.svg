@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" fill="#0B1020"/>
+  <text x="40" y="50" font-family="IBM Plex Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">AgentHireAI — Brand Palette</text>
+
+  <!-- Swatches -->
+  <g font-family="IBM Plex Mono, monospace" font-size="13" fill="#F8FAFC">
+    <rect x="40" y="80" width="150" height="90" rx="10" fill="#0B1020" stroke="#2A3050"/>
+    <text x="50" y="185">Background</text><text x="50" y="203" fill="#8B93B0">#0B1020</text>
+
+    <rect x="210" y="80" width="150" height="90" rx="10" fill="#5B5FFF"/>
+    <text x="220" y="185">Primary</text><text x="220" y="203" fill="#8B93B0">#5B5FFF</text>
+
+    <rect x="380" y="80" width="150" height="90" rx="10" fill="#00D4FF"/>
+    <text x="390" y="185">Secondary</text><text x="390" y="203" fill="#8B93B0">#00D4FF</text>
+
+    <rect x="550" y="80" width="150" height="90" rx="10" fill="#00E676"/>
+    <text x="560" y="185">Success</text><text x="560" y="203" fill="#8B93B0">#00E676</text>
+
+    <rect x="720" y="80" width="140" height="90" rx="10" fill="#F8FAFC"/>
+    <text x="730" y="185" fill="#F8FAFC">Text</text><text x="730" y="203" fill="#8B93B0">#F8FAFC</text>
+  </g>
+
+  <line x1="40" y1="240" x2="860" y2="240" stroke="#2A3050"/>
+
+  <text x="40" y="280" font-family="IBM Plex Sans, Inter, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">Typography</text>
+
+  <text x="40" y="330" font-family="IBM Plex Sans, sans-serif" font-size="40" font-weight="700" fill="#F8FAFC">AgentHire<tspan fill="#00D4FF">AI</tspan></text>
+  <text x="40" y="355" font-family="IBM Plex Sans, Inter, sans-serif" font-size="14" fill="#8B93B0">Display / Wordmark — IBM Plex Sans, 700 (nod to the IBM Granite AI foundation model)</text>
+
+  <text x="40" y="405" font-family="Inter, sans-serif" font-size="22" font-weight="500" fill="#F8FAFC">The quick brown fox tailors your resume.</text>
+  <text x="40" y="428" font-family="IBM Plex Sans, Inter, sans-serif" font-size="14" fill="#8B93B0">UI / Body — Inter, 400–600 (Streamlit dashboard text, buttons, labels)</text>
+
+  <text x="40" y="475" font-family="IBM Plex Mono, monospace" font-size="20" fill="#00E676">ATS_MATCH_SCORE: 94.2%</text>
+  <text x="40" y="498" font-family="IBM Plex Sans, Inter, sans-serif" font-size="14" fill="#8B93B0">Data / Mono — IBM Plex Mono or JetBrains Mono (scores, code, API output)</text>
+
+  <text x="40" y="540" font-family="IBM Plex Sans, Inter, sans-serif" font-size="13" letter-spacing="2" fill="#5B6478">AI RESUME TAILORING &amp; ATS OPTIMIZATION — UPPERCASE, +2.5 TRACKING, 500 WEIGHT</text>
+</svg>
